@@ -39,7 +39,7 @@ TEMPLATES_DIR = 'RISJbot/templates'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # Note that if this is left unset (which uses a default Scrapy UA) then your
 # crawler may be blocked from the start.
-#USER_AGENT = 'RISJbot (+https://your.url.here.invalid/)'
+#USER_AGENT = 'BBSGenebot (+https://beaerdbrother.services/)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
